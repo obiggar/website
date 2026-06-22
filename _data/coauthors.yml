@@ -1,34 +1,27 @@
-"adams":
-  - firstname: ["Edwin", "E.", "E. P.", "Edwin Plimpton"]
-    url: https://en.wikipedia.org/wiki/Edwin_Plimpton_Adams
+"shames":
+  - firstname: ["Iman"]
+    url: https://imanshames.blog/
 
-"podolsky":
-  - firstname: ["Boris", "B.", "B. Y.", "Boris Yakovlevich"]
-    url: https://en.wikipedia.org/wiki/Boris_Podolsky
+"papadimitriou":
+  - firstname: ["Christos", "Christos H."]
+    url: https://www.engineering.columbia.edu/faculty-staff/directory/christos-papadimitriou
 
-"rosen":
-  - firstname: ["Nathan", "N."]
-    url: https://en.wikipedia.org/wiki/Nathan_Rosen
+"yannakakis":
+  - firstname: ["Mihalis"]
+    url: https://www.cs.columbia.edu/~mihalis/
 
-"bach":
-  - firstname: ["Johann Sebastian", "J. S."]
-    url: https://en.wikipedia.org/wiki/Johann_Sebastian_Bach
+"zamani":
+  - firstname: ["Behzad", "Mohammad"]
+    url: https://findanexpert.unimelb.edu.au/profile/805089-behzad-zamani
 
-  - firstname: ["Carl Philipp Emanuel", "C. P. E."]
-    url: https://en.wikipedia.org/wiki/Carl_Philipp_Emanuel_Bach
+"stefansson":
+  - firstname: ["Elis"]
+    url: https://www.uu.se/en/contact-and-organisation/staff?query=N25-1513
 
-"przibram":
-  - firstname: ["Karl"]
-    url: https://link.springer.com/article/10.1007/s00016-019-00242-z
+"piliouras":
+  - firstname: ["Georgios"]
+    url: https://georgiospiliouras.com/
 
-"schrodinger":
-  - firstname: ["Erwin"]
-    url: https://en.wikipedia.org/wiki/Erwin_Schr%C3%B6dinger
-
-"lorentz":
-  - firstname: ["Hendrik Antoon"]
-    url: https://en.wikipedia.org/wiki/Hendrik_Lorentz
-
-"planck":
-  - firstname: ["Max"]
-    url: https://en.wikipedia.org/wiki/Max_Planck
+"johansson":
+  - firstname: ["Karl","Karl Henrik","Karl H"]
+    url: https://people.kth.se/~kallej/

@@ -1,6 +1,19 @@
-"AJP":
-  url: https://aapt.scitation.org/journal/ajp
-  color: "#00369f"
+"ALT":
+  url: https://algorithmiclearningtheory.org/
+  color: "#db431d"
+
+"SciRep":
+  url: https://www.nature.com/srep/
+  color: "#9297a1"
+
+"TCPS":
+  url: https://dl.acm.org/journal/tcps
+  color: "#c9a73e"
+
+"RAL":
+  url: https://dl.acm.org/journal/tcps
+  color: "#c22f69"
+
 
 "PhysRev":
   url: https://journals.aps.org/
