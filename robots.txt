@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://obiggar.github.io/website/sitemap.xml
+Sitemap: https://obiggar.github.io/sitemap.xml

@@ -7,21 +7,21 @@ ninja.data = [{
     title: "about",
     section: "Navigation",
     handler: () => {
-      window.location.href = "/website/";
+      window.location.href = "/";
     },
   },{id: "nav-publications",
           title: "publications",
           description: "publications in reversed chronological order.",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/website/publications/";
+            window.location.href = "/publications/";
           },
         },{id: "nav-cv",
           title: "CV",
           description: "",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/website/cv/";
+            window.location.href = "/cv/";
           },
         },{id: "post-google-gemini-updates-flash-1-5-gemma-2-and-project-astra",
         
@@ -52,7 +52,7 @@ ninja.data = [{
           title: 'A long announcement with details',
           description: "",
           section: "News",handler: () => {
-              window.location.href = "/website/news/announcement_2/";
+              window.location.href = "/news/announcement_2/";
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
@@ -61,7 +61,7 @@ ninja.data = [{
         title: 'CV',
         section: 'Socials',
         handler: () => {
-          window.open("/website/assets/pdf/example_pdf.pdf", "_blank");
+          window.open("/assets/pdf/example_pdf.pdf", "_blank");
         },
       },{
         id: 'social-email',
@@ -82,7 +82,7 @@ ninja.data = [{
         title: 'RSS Feed',
         section: 'Socials',
         handler: () => {
-          window.open("/website/feed.xml", "_blank");
+          window.open("/feed.xml", "_blank");
         },
       },{
         id: 'social-scholar',
